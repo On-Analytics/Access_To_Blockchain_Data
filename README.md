@@ -13,4 +13,4 @@ Welcome to our tutorial on utilizing on accessing on-chain data. Whether you're 
 We provide analysis of on-chain data. You can contact me on [Linkedin](https://www.linkedin.com/in/oscarquirogap/). Check my webpage too for more information [WebPage](http://onanalytics.co/)
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
